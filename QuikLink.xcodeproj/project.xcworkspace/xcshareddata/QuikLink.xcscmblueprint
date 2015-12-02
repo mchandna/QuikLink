@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "628324BBB6DF15C883D904EEA969C09A17ADD82F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "04769BD703BD6C2D8A5ABA1D471829FD708D9EFA" : 0,
+    "628324BBB6DF15C883D904EEA969C09A17ADD82F" : 0,
+    "14F0023360B5E423D9D93AB4A2DA2E52BAF47FF5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "41C9CCD8-A042-457D-87D3-14F052B58194",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "04769BD703BD6C2D8A5ABA1D471829FD708D9EFA" : "Borrowed\/",
+    "628324BBB6DF15C883D904EEA969C09A17ADD82F" : "QuikLink\/",
+    "14F0023360B5E423D9D93AB4A2DA2E52BAF47FF5" : "Re-me-mber\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "QuikLink",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "QuikLink.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mchandna\/Borrowed.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "04769BD703BD6C2D8A5ABA1D471829FD708D9EFA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:mchandna\/Re-me-mber.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "14F0023360B5E423D9D93AB4A2DA2E52BAF47FF5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mchandna\/QuikLink.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "628324BBB6DF15C883D904EEA969C09A17ADD82F"
+    }
+  ]
+}

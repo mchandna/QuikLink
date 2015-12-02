@@ -9,14 +9,15 @@
 import UIKit
 import Fabric
 import TwitterKit
+import Bolts
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
+        
         Twitter.sharedInstance().startWithConsumerKey("cd9MFFEbz5FmRmzbgA1KBxFSy", consumerSecret: "FHwAMg6IObwz5XFxBTzrvupf3tso67U9XnveCEk8tgbSGF8jl0")
         Fabric.with([Twitter.sharedInstance()])
         
